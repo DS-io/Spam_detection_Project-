@@ -1,1 +1,3 @@
-# Spam_detection_Project-
+# Spam_detection_Project
+
+The spam detection project with custom input is a machine learning-based project that uses the Support Vector Machine (SVM) algorithm to classify emails as spam or not. The project uses a pre-trained model that is trained on a dataset of spam and non-spam emails. The model is built using CountVectorizer, a text feature extraction tool, to transform the input text data into numerical vectors. The accuracy of the model is measured using metrics like confusion matrix, ROC curve, and AUC. In addition, the project allows users to test the model by entering their own email text and provides a prediction whether the input email is spam or not.
